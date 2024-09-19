@@ -51,7 +51,7 @@ The CNN model includes:
 -  **Loss Function**: Categorical cross-entropy used for multi-class classification.
 
 ## Results 📊
-The model achieved satisfactory accuracy on the test set, with detailed metrics provided in the classification report. A confusion matrix illustrates performance across different classes.
+The model achieved satisfactory accuracy on the test set(95.3%), with detailed metrics provided in the classification report. A confusion matrix illustrates performance across different classes.
 
 ## Challenges Encountered ⚠️
 -  **Imbalanced Data**: Addressed using under-sampling techniques.
