@@ -34,13 +34,15 @@ The dataset consists of MRI images categorized into four classes:
 - Glioma 🧬
 - Meningioma 🧠
 - Pituitary Tumor 🎗️
+
 Images are preprocessed by resizing to 512x512 pixels and normalized.
 
 ## Model Architecture 🏗️
 The CNN model includes:
 - **Input Layer**: Convolutional layers with ReLU activation.
 - **Pooling Layers**: Max pooling layers to reduce dimensionality.
-- **Fully Connected Layers**: Dense layers for classification with softmax activation._
+- **Fully Connected Layers**: Dense layers for classification with softmax activation.
+
 *Model summary and architecture visualization are included in the code.*
 
 ## Training Process 🚀
